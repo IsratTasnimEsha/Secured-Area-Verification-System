@@ -46,7 +46,6 @@ The system's functionality includes:
 ### Video
 
 [Watch the Demo Video](https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/raw/main/assets/88322977/9195190d-a28e-4b48-9279-58a0cda54315)
-center
 
 ## Usage
 
