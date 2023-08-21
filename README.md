@@ -27,18 +27,26 @@ The system's functionality includes:
 
 ## Views and Video
 
-### Front View
-![Front View](https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/dd2c2704-582d-43a6-bf34-2f13f7b932ba)
+<h3 align="center">Front View</h3>
+<div align="center">
+  <img src="https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/dd2c2704-582d-43a6-bf34-2f13f7b932ba" alt="Front View" style="width: 60%; height: auto;">
+</div>
 
+<h3 align="center">Top View</h3>
+<div align="center">
+  <img src="https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/51738853-c36e-442f-8794-ab8dc4548a7d" alt="Top View" style="width: 60%; height: auto;">
+</div>
 
-### Top View
-![Top View](https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/51738853-c36e-442f-8794-ab8dc4548a7d)
+<h3 align="center">Side View</h3>
+<div align="center">
+  <img src="https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/bbbfe0ad-04f4-4a94-9ef2-e182ce9c8fd1" alt="Side View" style="width: 60%; height: auto;">
+</div>
 
-### Side View
-![Side View](https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/assets/88322977/bbbfe0ad-04f4-4a94-9ef2-e182ce9c8fd1)
 
 ### Video
+
 [Watch the Demo Video](https://github.com/IsratTasnimEsha/Secured-Area-Verification-System/raw/main/assets/88322977/9195190d-a28e-4b48-9279-58a0cda54315)
+center
 
 ## Usage
 
