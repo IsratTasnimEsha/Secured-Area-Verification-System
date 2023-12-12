@@ -57,6 +57,10 @@ The system's functionality includes:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss the changes.
 
+## Contact
+
+I'm here to assist you on your journey with the Secured Area Verification System. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+
 ## Authors
 
 - Israt Tasnim Esha
