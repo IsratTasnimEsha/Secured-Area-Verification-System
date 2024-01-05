@@ -8,15 +8,16 @@ The Secured Area Verification System uses multiple components to control access 
 
 ## Components Used
 
-- Arduino board
-- MFRC522 RFID module
-- IR sensor
-- Keypad
-- Servo motor
-- LCD display
-- LED Light
-- Breadboard
+- 1 Arduino UNO
+- 1 MFRC522 RFID module
+- 1 IR sensor
+- 1 4*4 Keypad
+- 1 Servo motor
+- 1 LCD display
+- 2 LED Lights
+- 1 Breadboard
 - Connecting Wires (M-M, M-W, W-W)
+- 2 Toy Cars
 
 ## System Functionality
 
