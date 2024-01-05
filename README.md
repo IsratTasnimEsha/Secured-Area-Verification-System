@@ -57,6 +57,20 @@ The system's functionality includes:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss the changes.
 
+## Acknowledgments
+
+We would like to express our gratitudes to the following YouTube videos and creators, whose contents greatly assisted us in the development of this project:
+
+- [Attaching and Testing a Servo Motor](https://youtu.be/a96WIpDho64?si=s_Fy0VcoTJ9RWEod)
+- [Attaching and Testing an IR Sensor and LED Light](https://youtu.be/tUTr58fq308?si=133CQZjKWaaiw34b)
+- [Attaching and Testing an LCD Display](https://youtu.be/CvqHkXeXN3M?si=PYCqOl7Ppb-r8SbT)
+- [Attaching and Testing a 4*4 Keypad](https://youtu.be/qIDzzG2LUtg?si=thC07QoOTjq7CCfA)
+- [Attaching and Testing an RFID](https://youtu.be/zt5jqVIgRWo?si=M2VuW6LwEGvJ7WSe)
+- [Attaching and Testing a Load Cell sensor](https://youtu.be/pWiS-oW3Snc?si=5gZMXK3v0ECkUXON)
+- [RFID Based Automated Toll Collection System Using Arduino](https://youtu.be/nxCfTV_T1gQ?si=zv7yC0xdWX03mcBN)
+
+These videos provided invaluable guidance and insights into various aspects of our IoT project. These played a crucial role in enhancing our understandings and skills, contributing to the successful completion of this project.
+
 ## Contact
 
 I'm here to assist you on your journey with the Secured Area Verification System. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
