@@ -14,6 +14,8 @@ The Secured Area Verification System uses multiple components to control access 
 - Keypad
 - Servo motor
 - LCD display
+- Breadboard
+- Connecting Wires (M-M, M-W, W-W)
 
 ## System Functionality
 
