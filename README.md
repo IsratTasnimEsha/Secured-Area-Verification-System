@@ -61,6 +61,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 We would like to express our gratitudes to the following YouTube videos and creators, whose contents greatly assisted us in the development of this project:
 
+- [Testing an Arduino](https://youtu.be/2sM58l19duc?si=htY7GvK9fHZwVciY)
 - [Attaching and Testing a Servo Motor](https://youtu.be/a96WIpDho64?si=s_Fy0VcoTJ9RWEod)
 - [Attaching and Testing an IR Sensor and LED Light](https://youtu.be/tUTr58fq308?si=133CQZjKWaaiw34b)
 - [Attaching and Testing an LCD Display](https://youtu.be/CvqHkXeXN3M?si=PYCqOl7Ppb-r8SbT)
