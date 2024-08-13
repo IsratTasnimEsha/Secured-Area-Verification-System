@@ -82,8 +82,8 @@ I'm here to assist you on your journey with the Secured Area Verification System
 
 ## Authors
 
-- Israt Tasnim Esha *(1907090)*
-- Nusrat Tarmin Meem *(1907083)*
+- Israt Tasnim Esha **(1907090)**
+- Nusrat Tarmin Meem **(1907083)**
 
 *Department of Computer Science and Engineering*  
 *Khulna University of Engineering and Technology*
