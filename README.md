@@ -87,5 +87,5 @@ I'm here to assist you on your journey with the Secured Area Verification System
 
 **CSE 3104 - Peripherals and Interfacing Laboratory**  
 *Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+*Khulna University of Engineering and Technology*          
 **Year:** 2023
